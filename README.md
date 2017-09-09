@@ -16,13 +16,8 @@ Proposals should:
 * include a **title** and a **short description** of the talk
 * be assigned to the proposed speaker
 * tagged with the `proposal` label
+* tagged with **one** of the following types: `project`, `talk` or `workshop` label
 * mention the expected length
 * specify an indication of when they will be ready by. If no indication of when they are for is provided they may be scheduled for the next meeting.
 
-Please vote for talks by starring/favouriting them.
-
-
-
-## Code of Conduct
-
-__TODO__
+Please vote for proposals by starring/favouriting them.
