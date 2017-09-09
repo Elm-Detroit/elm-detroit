@@ -18,6 +18,8 @@ Proposals should:
 * tagged with the `proposal` label
 * tagged with **only one** of the following types: `project`, `talk` or `workshop` label
 * mention the expected length
-* specify an indication of when they will be ready by. If no indication of when they are for is provided they may be scheduled for the next meeting.
 
-Please vote for proposals by starring/favouriting them.
+For talks and workhops:
+* Specify an indication of when the talk or workshop will be ready by. If no indication of when they are for is provided they may be scheduled for the next meeting.
+
+Please vote for proposals by starring/favoriting them.
